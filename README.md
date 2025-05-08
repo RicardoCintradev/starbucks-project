@@ -2,7 +2,7 @@
 Projeto de landing page Starbucks com recursos interativos e design moderno.
 
 ## 🗺️ Visão Geral do Projeto
-**Objetivo**: Criar uma experiência digital imersiva inspirada na marca Starbucks  
+**Objetivo**: Csite clone da inspirada na marca Starbucks  com ajuda do professor @rodolfo mori @devclub 
 **Status**: Em desenvolvimento  
 **Versão Atual**: 1.1.0  
 **Última Atualização**: Agosto 2025
